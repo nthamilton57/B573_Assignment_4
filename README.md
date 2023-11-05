@@ -6,8 +6,7 @@
 
 ## Description:
 
-This repository is designed to serve as an introduction to R in order to work with fundamental R concepts and data manipulation. Through repository, vector creation, matrix manipulation, and logical operations were used to manipulate test data sets. Additionally, function development was utilized and applied to data sets.
-
+This repository is designed to serve as an introduction to R in order to work with fundamental R concepts and data manipulation. Through the assignment, vector creation, matrix manipulation, and logical operations were used to manipulate test data sets. Additionally, function development was utilized and real world datasets were analyzed. A comparison between R and Python regarding factors like readability, ease of use, and library availability was discussed as well.
 
 ### Required Files
 
