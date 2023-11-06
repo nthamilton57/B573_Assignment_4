@@ -18,11 +18,11 @@ hailstone <- function(x){
   #save the initial x value as y to use in the print out statement
   y <- x
   #special if statement for if x is 1 to start
-  if(x==1){
-    x <- x*3 + 1
-    #increase counter
-    counter = counter +1
-  }
+  #if(x==1){
+  #  x <- x*3 + 1
+  #  #increase counter
+  #  counter = counter +1
+  #}
   #while x isnt one, loop through the processes
   while(x != 1){
     #if x is odd do this
