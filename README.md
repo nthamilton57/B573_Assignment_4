@@ -10,7 +10,12 @@ This repository is designed to serve as an introduction to R in order to work wi
 
 ### Required Files
 
-None
+
+<code>Assignment_4.1.R</code>  creates a function, Hailstone, and applies it to data
+
+<code>Assignment_4.2.R</code>  creates matrices based on the ISLR Auto data
+
+<code>tAssignment_4.3.R</code>  compares and contrast R and Python
 
 
 ### Required Packages
